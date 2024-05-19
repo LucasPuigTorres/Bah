@@ -2,9 +2,9 @@
 
 Olá 
 
-Estou criando este repositório por meio de ensinos do Alura
+Estou criando este repositório por meio de ensinos do *Alura*
 
-Esse espaço serve para projetos javaScrippt do Alura
+Esse espaço serve para projetos javaScrippt 
 
 Tenha um exelente dia 👍 
 
