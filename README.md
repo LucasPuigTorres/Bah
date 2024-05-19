@@ -2,7 +2,7 @@
 
 Olá 
 
-Estou criando este repositório por meio de ensinos do [Alura](https:www.alura.com.br)
+Estou criando este repositório por meio de ensinos do [Alura](https://www.alura.com.br/)
 
 Esse espaço serve para projetos javaScrippt 
 
