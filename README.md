@@ -8,8 +8,4 @@ Esse espaço serve para projetos javaScrippt do Alura
 
 Tenha um exelente dia 👍 
 
-
-
-
-
-![](https://tenor.com/pt-BR/view/patrick-patrick-star-dancing-patrick-dancing-patrick-star-dancing-gif-26969077)
+![](https://media.tenor.com/4HkLW40pwKgAAAAi/patrick-patrick-star.gif)
